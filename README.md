@@ -1,2 +1,2 @@
 # Adeoye-Anny
-Hi there, I’m Annyexperienced IT Support / Helpdesk Specialist
+Hi there, I’m Adeoye Anny experienced IT Support / Helpdesk Specialist
