@@ -9,8 +9,8 @@
   - [ServiceNow Ticket Lifecycle Simulation](https://github.com/adeoye247/servicenow-ticket-lifecycle)
   
 
-- **IT Support and Help Desk**
-  - [Windows 10 Troubleshooting Lab](https://github.com/YourUser/windows10-troubleshooting)
+- **Windows Server 2022 Lab Environment Setup (VMware Workstation Pro)**
+  - [Installing VMware Workstation Pro](https://github.com/adeoye-anny/VMware-Workstation-Pro)
   - [Printer and Network Issue Resolution Scenarios](https://github.com/YourUser/helpdesk-printer-network)
 
 - **Networking and Infrastructure**
