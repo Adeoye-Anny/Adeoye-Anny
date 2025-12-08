@@ -11,7 +11,7 @@
 
 - **Windows Server 2022 Lab Environment Setup (VMware Workstation Pro)**
   - [Install VMware Workstation Pro](https://github.com/adeoye-anny/VMware-Workstation-Pro)
-  - [Install Windows Server 2022 on VMware](https://github.com/adeoye-anny/Windows-Server-2022-on-VMware)
+  - [Install Windows Server 2022 on VMware](https://github.com/adeoye-anny/Windows-Server-2022-on-VMware-Workstation)
 
 - **Networking and Infrastructure**
   - [Basic Network Setup in Packet Tracer](https://github.com/YourUser/packet-tracer-lab)
