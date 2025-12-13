@@ -14,10 +14,8 @@
   - [Install Windows Server 2022 on VMware](https://github.com/adeoye-anny/Windows-Server-2022-on-VMware-Workstation)
   - [Install Active Directory Domain Services (AD DS)](https://github.com/adeoye-anny/Active-Directory-Domain-Services)
   - [Windows Server 2022 - Organized OUs and applied Group Policies](https://github.com/adeoye-anny/Organized-OUs-and-applied-Group-Policies)
-  - [Windows Server 2022 - Group Policy Management: Implementing and testing GPOs](Group-Policy-Management-Implementing-and-testing-GPOs)
+  - [Windows Server 2022 - Group Policy Management: Implementing and testing GPOs](https://github.com/adeoye-anny/Group-Policy-Management-Implementing-and-testing-GPOs)
 
-
-- **Windows Server 2022 - Group Policy Management: Implementing and testing GPOs**
 
 
   
