@@ -15,8 +15,8 @@
   - [Install Active Directory Domain Services (AD DS)](https://github.com/adeoye-anny/Active-Directory-Domain-Services)
   - [Windows Server 2022 - Organized OUs and applied Group Policies](https://github.com/adeoye-anny/Organized-OUs-and-applied-Group-Policies)
   - [Windows Server 2022 - Group Policy Management: Implementing and testing GPOs](https://github.com/adeoye-anny/Group-Policy-Management-Implementing-and-testing-GPOs)
-  - [File Sharing within Active Directory Environment](https://github.com/adeoye-anny/File-Sharing-within-Active-Directory-Environment)
-
+  - [Windows Server 2022 - File Sharing within Active Directory Environment](https://github.com/adeoye-anny/File-Sharing-within-Active-Directory-Environment)
+  - [Windows Server 2022 - Active Directory DS GPMC Security Policies](https://github.com/adeoye-anny/Windows-Server-2022-Active-Directory-DS-GPMC-Security-Policies)
 
 
   
