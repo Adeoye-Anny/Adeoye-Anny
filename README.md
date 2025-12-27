@@ -18,8 +18,6 @@
   - [Windows Server 2022 - File Sharing within Active Directory Environment](https://github.com/adeoye-anny/File-Sharing-within-Active-Directory-Environment)
   - [Windows Server 2022 File Sharing - NFTS Vs Shared - Assign Folder Permissions ](https://github.com/adeoye-anny/NFTS-Vs-Shared-Assign-Folder-Permissions)
   - [Windows Server 2022 - Active Directory DS GPMC Security Policies](https://github.com/adeoye-anny/Windows-Server-2022-Active-Directory-DS-GPMC-Security-Policies)
-  - [Windows Server 2022 - AD Implementing Service Accounts](https://github.com/adeoye-anny/AD-Implementing-Service-Accounts) 
-
 
   
 - **Networking and Infrastructure**
