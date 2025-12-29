@@ -21,16 +21,18 @@
 
   
 - **Networking and Infrastructure**
-  - [Basic Network Setup in Packet Tracer](https://github.com/YourUser/packet-tracer-lab)
-  - [Active Directory and Group Policy Lab](https://github.com/YourUser/ad-gpo-lab)
+  - [Basic Network Setup in Packet Tracer](https://github.com/adeoye-anny/Basic-Network-Setup-in-Packet-Tracer)
+ 
 
 ## 📊 Tools and Technologies
 
 - ServiceNow
-- Windows 10 and 11
+- VMware Workstation
+- Windows Server 2022
 - Active Directory
-- Office 365
+- Group Policy Management
 - Basic Networking (TCP/IP, DNS, DHCP)
+- Office 365
 
 ## 🤝 Connect with me
 
