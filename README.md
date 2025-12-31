@@ -1,4 +1,4 @@
-# Hi, I’m Adeoye Anny, 
+# Hi, I’m Adeoye Animashaun, 
 # An experienced [IT Support Specialist / Helpdesk Specialist](https://www.linkedin.com/in/adeoye-animashaun) 😊
 
 
@@ -22,7 +22,10 @@
   
 - **Networking and Infrastructure**
   - [Basic Network Setup in Packet Tracer](https://github.com/adeoye-anny/Basic-Network-Setup-in-Packet-Tracer)
- 
+
+- **Windows 11 Security, Office 365 Support, Zoom Troubleshooting, and AnyDesk Remote Assistance**
+  - [Windows 11 Security, Office 365 Support, Zoom Troubleshooting, and AnyDesk Remote Assistance](https://github.com/adeoye-anny/IT-Support-Lab-Windows11-M365-Zoom-AnyDesk)
+
 
 ## 📊 Tools and Technologies
 
@@ -32,7 +35,10 @@
 - Active Directory
 - Group Policy Management
 - Basic Networking (TCP/IP, DNS, DHCP)
-- Office 365
+- Windows 11
+- Microsoft 365
+- Zoom
+- AnyDesk
 
 ## 🤝 Connect with me
 
