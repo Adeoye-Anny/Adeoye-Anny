@@ -24,7 +24,9 @@
   - [Basic Network Setup in Packet Tracer](https://github.com/adeoye-anny/Basic-Network-Setup-in-Packet-Tracer)
 
 - **Windows 11 Security, Office 365 Support, Zoom Troubleshooting, and AnyDesk Remote Assistance**
-  - [Windows 11 Security, Office 365 Support, Zoom Troubleshooting, and AnyDesk Remote Assistance](https://github.com/adeoye-anny/IT-Support-Lab-Windows11-M365-Zoom-AnyDesk)
+  - [Windows 11 Security & System Administration](https://github.com/adeoye-anny/Windows11-Security-System-Administration)
+  - [Microsoft 365 + Zoom Practice Lab](https://github.com/adeoye-anny/Microsoft-365-Zoom-Practice-Lab)
+  - [Remote Troubleshooting Using AnyDesk (Hands-On Lab)](https://github.com/adeoye-anny/AnyDesk-Remote-Troubleshooting)
 
 
 ## 📊 Tools and Technologies
